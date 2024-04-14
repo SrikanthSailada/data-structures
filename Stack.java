@@ -72,6 +72,6 @@ public class Stack {
         stack.pop();
         stack.pop();
         stack.pop();
-        
+
     }
 }
